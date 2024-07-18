@@ -62,5 +62,6 @@ button.addEventListener('click',function(){
     ageNumber.value = "";
     selectOption.value = dropselect.value;
     userImage$.value = "";
+    genderValue.value = "";
     
 })
