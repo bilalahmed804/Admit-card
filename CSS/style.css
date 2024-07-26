@@ -13,8 +13,8 @@ h1{
 .head{
     display: flex;
 }
-section{
-    margin: 3% 0% 3% 3%;
+header{
+    margin: 30px 0px 30px 30px;
     padding: 1px 10px 10px 30px;
     width: 400px;
     height: 590px;
